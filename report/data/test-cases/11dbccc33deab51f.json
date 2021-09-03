@@ -1,0 +1,430 @@
+{
+  "uid" : "11dbccc33deab51f",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_10.TestProcurementType#test_newly",
+  "historyId" : "dcfbf4dc1704b69fbf645aa7b1fac875",
+  "time" : {
+    "start" : 1617173252272,
+    "stop" : 1617173252756,
+    "duration" : 484
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "555e1c42ba9f4bc7",
+      "name" : "log",
+      "source" : "555e1c42ba9f4bc7.txt",
+      "type" : "text/plain",
+      "size" : 201
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例10"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_10"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "179896-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_10"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71a4a17c9296dfc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617097221313,
+        "stop" : 1617097222702,
+        "duration" : 1389
+      }
+    }, {
+      "uid" : "83ec35896b27e57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617085198492,
+        "stop" : 1617085199045,
+        "duration" : 553
+      }
+    }, {
+      "uid" : "ab82196270ed4bd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617085009740,
+        "stop" : 1617085010350,
+        "duration" : 610
+      }
+    }, {
+      "uid" : "9ce9244080a3e2ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617084126100,
+        "stop" : 1617084128464,
+        "duration" : 2364
+      }
+    }, {
+      "uid" : "af2626fffe51c553",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617083674231,
+        "stop" : 1617083676248,
+        "duration" : 2017
+      }
+    }, {
+      "uid" : "4088f55e923903ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616663715840,
+        "stop" : 1616663716392,
+        "duration" : 552
+      }
+    }, {
+      "uid" : "b44c27a91519e97",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 0\n  +2\n  -0",
+      "time" : {
+        "start" : 1616663570856,
+        "stop" : 1616663571059,
+        "duration" : 203
+      }
+    }, {
+      "uid" : "1c0ab04a04156b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616494411732,
+        "stop" : 1616494416685,
+        "duration" : 4953
+      }
+    }, {
+      "uid" : "6a1db28256841291",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616493952903,
+        "stop" : 1616493953451,
+        "duration" : 548
+      }
+    }, {
+      "uid" : "ec12d06646e58803",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616493770155,
+        "stop" : 1616493770808,
+        "duration" : 653
+      }
+    }, {
+      "uid" : "38d8d2c682e0266a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492697179,
+        "stop" : 1616492697583,
+        "duration" : 404
+      }
+    }, {
+      "uid" : "9d45c720c9f34447",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492530054,
+        "stop" : 1616492531338,
+        "duration" : 1284
+      }
+    }, {
+      "uid" : "6282b58f2ad13ce6",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../testcase/test_dict.yaml'",
+      "time" : {
+        "start" : 1616492435172,
+        "stop" : 1616492435172,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "392a3d633ff75cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492306576,
+        "stop" : 1616492307042,
+        "duration" : 466
+      }
+    }, {
+      "uid" : "86a6ec77e2950bef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492252028,
+        "stop" : 1616492256487,
+        "duration" : 4459
+      }
+    }, {
+      "uid" : "29cbe6a143259250",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616491738083,
+        "stop" : 1616491738668,
+        "duration" : 585
+      }
+    }, {
+      "uid" : "258a2bdf025f8ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616491578375,
+        "stop" : 1616491578873,
+        "duration" : 498
+      }
+    }, {
+      "uid" : "a9bb9327fda878ee",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../data_test/test_dict.yaml'",
+      "time" : {
+        "start" : 1616491338027,
+        "stop" : 1616491338027,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "67298c20d2d880ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616479865713,
+        "stop" : 1616479866577,
+        "duration" : 864
+      }
+    }, {
+      "uid" : "9880ba737bef5f43",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: module 'yaml' has no attribute 'load'",
+      "time" : {
+        "start" : 1616479739978,
+        "stop" : 1616479739978,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1b5e1f9aac0ecb0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616465546103,
+        "stop" : 1616465546698,
+        "duration" : 595
+      }
+    }, {
+      "uid" : "7675108c3ba3ad5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616465390036,
+        "stop" : 1616465390653,
+        "duration" : 617
+      }
+    }, {
+      "uid" : "1262373b43cbb72a",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchase.updateFormStatus (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1616464824982,
+        "stop" : 1616464824991,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "d1e3bbcf07ce0750",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchase.updateFormStatus (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1616464030312,
+        "stop" : 1616464030322,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "4dc4dae2d157da57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615888310531,
+        "stop" : 1615888311190,
+        "duration" : 659
+      }
+    }, {
+      "uid" : "d9135013a6aa502c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 0\n  +2\n  -0",
+      "time" : {
+        "start" : 1615888157419,
+        "stop" : 1615888157632,
+        "duration" : 213
+      }
+    }, {
+      "uid" : "5eb6bef36052ce08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615861538552,
+        "stop" : 1615861542938,
+        "duration" : 4386
+      }
+    }, {
+      "uid" : "d34e9a996f93b614",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: 'test_dict.yaml'",
+      "time" : {
+        "start" : 1615860544355,
+        "stop" : 1615860544355,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "486b88aa3bba0f2",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: 'test_dict.yaml'",
+      "time" : {
+        "start" : 1615859922443,
+        "stop" : 1615859922443,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8413a390e8f96b66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615286181764,
+        "stop" : 1615286182409,
+        "duration" : 645
+      }
+    }, {
+      "uid" : "7e20056c85c95c74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615285795115,
+        "stop" : 1615285795647,
+        "duration" : 532
+      }
+    }, {
+      "uid" : "7dafcd6cde44b5f0",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'id'",
+      "time" : {
+        "start" : 1615283532157,
+        "stop" : 1615283532158,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f924747c0e3d6754",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615283053736,
+        "stop" : 1615283054038,
+        "duration" : 302
+      }
+    }, {
+      "uid" : "d3a1d62e67ecf33f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615282891840,
+        "stop" : 1615282892216,
+        "duration" : 376
+      }
+    }, {
+      "uid" : "be9e0f63d0db04ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615281967613,
+        "stop" : 1615281969285,
+        "duration" : 1672
+      }
+    }, {
+      "uid" : "4568a3b31afeebc0",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchase.updateFormStatus (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615281938397,
+        "stop" : 1615281938405,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "ffbfa1b1b07a55a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615269116923,
+        "stop" : 1615269122153,
+        "duration" : 5230
+      }
+    }, {
+      "uid" : "55bab53ec563232",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615262308437,
+        "stop" : 1615262309427,
+        "duration" : 990
+      }
+    }, {
+      "uid" : "f5a8e041a79c180c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199821817,
+        "stop" : 1615199823485,
+        "duration" : 1668
+      }
+    }, {
+      "uid" : "8789dfb5ddcbd82b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199771785,
+        "stop" : 1615199772193,
+        "duration" : 408
+      }
+    }, {
+      "uid" : "9d17ffe10e1833d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199692074,
+        "stop" : 1615199692485,
+        "duration" : 411
+      }
+    }, {
+      "uid" : "361609422cb58ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615198941703,
+        "stop" : 1615198942221,
+        "duration" : 518
+      }
+    }, {
+      "uid" : "c7d82ae0388da10f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 100 == 0\n  +100\n  -0",
+      "time" : {
+        "start" : 1615198801279,
+        "stop" : 1615198801531,
+        "duration" : 252
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11dbccc33deab51f.json",
+  "parameterValues" : [ ]
+}

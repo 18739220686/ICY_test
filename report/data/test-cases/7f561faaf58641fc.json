@@ -1,0 +1,72 @@
+{
+  "uid" : "7f561faaf58641fc",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_13.TestProcurementType#test_newly",
+  "historyId" : "aaf95563e4a4f6c4e48060fc8634c3ab",
+  "time" : {
+    "start" : 1615283533034,
+    "stop" : 1615283533459,
+    "duration" : 425
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d49550df2958d32c",
+      "name" : "log",
+      "source" : "d49550df2958d32c.txt",
+      "type" : "text/plain",
+      "size" : 191
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例11"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_13"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "48284-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_13"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f561faaf58641fc.json",
+  "parameterValues" : [ ]
+}

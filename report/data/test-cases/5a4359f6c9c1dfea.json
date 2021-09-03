@@ -1,0 +1,58 @@
+{
+  "uid" : "5a4359f6c9c1dfea",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_23.TestProcurementType#test_newly",
+  "historyId" : "9b6c022f10f8c53031ae70f1703f2eae",
+  "time" : {
+    "start" : 1616491741690,
+    "stop" : 1616491741691,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: '../data_test/send.yaml'",
+  "statusTrace" : "self = <test_23.TestProcurementType object at 0x04994DF0>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-23' % (self.lab)\n        self.ip = gl.get_value('apiip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n>       self.supplierIds = self.id = Con().con_read()['supplyId']\n\ntestcase\\test_23.py:29: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <testcase.axtr.Con object at 0x04994230>\n\n    def con_read(self):\n        #打开文件\n>       with open('../data_test/send.yaml', encoding='utf-8') as f:\nE       FileNotFoundError: [Errno 2] No such file or directory: '../data_test/send.yaml'\n\ntestcase\\axtr.py:37: FileNotFoundError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例23"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_23"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "205456-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_23"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a4359f6c9c1dfea.json",
+  "parameterValues" : [ ]
+}

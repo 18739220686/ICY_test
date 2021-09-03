@@ -1,0 +1,224 @@
+2021-03-15 18:31:55,330 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:31:55,780 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-15 18:33:31,609 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:33:32,068 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-15 18:36:50,256 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:36:58,062 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:39:54,909 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:39:55,536 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:40:48,795 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:40:49,298 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:41:46,844 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:41:47,312 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:42:36,942 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:42:38,005 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:43:45,334 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:43:45,821 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:44:27,547 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:44:28,102 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:45:05,511 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:45:06,455 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:45:17,433 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:45:17,928 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_login.py[line:50] - INFO: <Response [200]>
+2021-03-15 18:47:45,944 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_001_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-15 18:47:50,638 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_001_login.py[line:50] - INFO: <Response [200]>
+2021-03-16 09:58:36,192 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_001_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:38,039 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_001_login.py[line:50] - INFO: <Response [200]>
+2021-03-16 09:58:38,045 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:38,674 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 09:58:38,722 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:58] - INFO: tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:39,284 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:63] - INFO: <Response [200]>
+2021-03-16 09:58:39,293 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:55] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:39,999 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:63] - INFO: <Response [200]>
+2021-03-16 09:58:40,027 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_06.py[line:44] - INFO: tg-06 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:41,144 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_08.py[line:56] - INFO: tg-08 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:42,450 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:42] - INFO: tg-11 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:43,875 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:47] - INFO: <Response [200]>
+2021-03-16 09:58:43,887 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:44] - INFO: tg-12 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:44,490 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:49] - INFO: <Response [200]>
+2021-03-16 09:58:44,500 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:51] - INFO: tg-13 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:48,563 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:56] - INFO: <Response [200]>
+2021-03-16 09:58:48,571 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:42] - INFO: tg-14 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:49,159 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:47] - INFO: <Response [200]>
+2021-03-16 09:58:49,166 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:83] - INFO: tg-15 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:49,698 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:88] - INFO: <Response [200]>
+2021-03-16 09:58:49,707 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:49] - INFO: tg-16 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:50,348 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:54] - INFO: <Response [200]>
+2021-03-16 09:58:50,356 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:44] - INFO: tg-17 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:50,847 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:49] - INFO: <Response [200]>
+2021-03-16 09:58:50,854 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:48] - INFO: tg-18 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:51,296 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:53] - INFO: <Response [200]>
+2021-03-16 09:58:51,307 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:46] - INFO: tg-19 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:51,665 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:51] - INFO: <Response [200]>
+2021-03-16 09:58:51,675 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:47] - INFO: tg-20 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 09:58:51,947 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:52] - INFO: <Response [200]>
+2021-03-16 10:00:17,083 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:00:17,557 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:01:52,905 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:58] - INFO: tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:01:53,890 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:63] - INFO: <Response [200]>
+2021-03-16 10:03:41,655 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:03:47,073 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:09:00,143 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_001_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:01,506 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_001_login.py[line:50] - INFO: <Response [200]>
+2021-03-16 10:09:01,510 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:01,690 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:09:01,740 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:58] - INFO: tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:02,488 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:63] - INFO: <Response [200]>
+2021-03-16 10:09:02,495 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:55] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:03,079 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:63] - INFO: <Response [200]>
+2021-03-16 10:09:03,099 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_06.py[line:44] - INFO: tg-06 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:03,712 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_08.py[line:56] - INFO: tg-08 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:04,361 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:42] - INFO: tg-11 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:04,972 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:47] - INFO: <Response [200]>
+2021-03-16 10:09:04,980 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:44] - INFO: tg-12 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:05,571 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:49] - INFO: <Response [200]>
+2021-03-16 10:09:05,578 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:51] - INFO: tg-13 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:06,560 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:56] - INFO: <Response [200]>
+2021-03-16 10:09:06,568 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:42] - INFO: tg-14 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:07,086 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:47] - INFO: <Response [200]>
+2021-03-16 10:09:07,093 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:83] - INFO: tg-15 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:07,613 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:88] - INFO: <Response [200]>
+2021-03-16 10:09:07,622 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:49] - INFO: tg-16 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:08,052 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:54] - INFO: <Response [200]>
+2021-03-16 10:09:08,061 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:44] - INFO: tg-17 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:08,503 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:49] - INFO: <Response [200]>
+2021-03-16 10:09:08,511 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:48] - INFO: tg-18 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:08,983 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:53] - INFO: <Response [200]>
+2021-03-16 10:09:08,990 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:46] - INFO: tg-19 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:09,433 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:51] - INFO: <Response [200]>
+2021-03-16 10:09:09,442 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:47] - INFO: tg-20 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:09,943 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:52] - INFO: <Response [200]>
+2021-03-16 10:09:33,861 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:09:34,254 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:10:56,352 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:10:57,767 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:11:18,371 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:11:19,771 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:13:52,879 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:13:53,263 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:16:27,089 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:16:27,489 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:18:01,376 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:61] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:18:02,197 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:66] - INFO: <Response [200]>
+2021-03-16 10:19:38,956 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:58] - INFO: tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:19:39,650 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:63] - INFO: <Response [200]>
+2021-03-16 10:20:17,753 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:20:18,215 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:21:10,913 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:21:11,310 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:21:28,831 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_001_login.py[line:42] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:21:32,813 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_001_login.py[line:50] - INFO: <Response [200]>
+2021-03-16 10:22:24,279 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:22:24,691 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:25:01,608 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:02,252 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:25:13,834 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:14,542 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 10:25:14,550 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:58] - INFO: tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:15,157 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:63] - INFO: <Response [200]>
+2021-03-16 10:25:15,162 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:55] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:20,649 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:63] - INFO: <Response [200]>
+2021-03-16 10:25:20,665 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_04.py[line:46] - INFO: tg-04 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:25,444 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_04.py[line:51] - INFO: <Response [200]>
+2021-03-16 10:25:25,454 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_05.py[line:46] - INFO: tg-05 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:31,278 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_05.py[line:51] - INFO: <Response [200]>
+2021-03-16 10:25:31,286 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_06.py[line:44] - INFO: tg-06 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:31,588 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_06.py[line:56] - INFO: <Response [200]>
+2021-03-16 10:25:31,604 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_07.py[line:46] - INFO: tg-07 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:32,095 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_07.py[line:51] - INFO: <Response [200]>
+2021-03-16 10:25:32,106 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_08.py[line:56] - INFO: tg-08 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:37,663 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_08.py[line:67] - INFO: <Response [200]>
+2021-03-16 10:25:37,701 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_09.py[line:107] - INFO: tg-09 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:38,538 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_09.py[line:112] - INFO: <Response [200]>
+2021-03-16 10:25:38,552 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_10.py[line:47] - INFO: tg-10 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:42,936 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_10.py[line:52] - INFO: <Response [200]>
+2021-03-16 10:25:42,948 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:42] - INFO: tg-11 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:43,303 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:47] - INFO: <Response [200]>
+2021-03-16 10:25:43,314 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:44] - INFO: tg-12 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:43,731 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:49] - INFO: <Response [200]>
+2021-03-16 10:25:43,737 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:51] - INFO: tg-13 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:48,224 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:56] - INFO: <Response [200]>
+2021-03-16 10:25:48,237 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:42] - INFO: tg-14 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:48,688 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:47] - INFO: <Response [200]>
+2021-03-16 10:25:48,789 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:83] - INFO: tg-15 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:49,688 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:88] - INFO: <Response [200]>
+2021-03-16 10:25:49,697 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:49] - INFO: tg-16 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:49,992 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:54] - INFO: <Response [200]>
+2021-03-16 10:25:50,005 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:44] - INFO: tg-17 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:50,234 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:49] - INFO: <Response [200]>
+2021-03-16 10:25:50,257 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:48] - INFO: tg-18 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:50,584 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:53] - INFO: <Response [200]>
+2021-03-16 10:25:50,597 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:46] - INFO: tg-19 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:50,822 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:51] - INFO: <Response [200]>
+2021-03-16 10:25:50,845 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:47] - INFO: tg-20 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 10:25:51,487 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:52] - INFO: <Response [200]>
+2021-03-16 17:49:15,544 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:16,125 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 17:49:16,174 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:58] - INFO: tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:16,395 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:63] - INFO: <Response [200]>
+2021-03-16 17:49:16,406 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:55] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:16,636 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:63] - INFO: <Response [200]>
+2021-03-16 17:49:16,660 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_06.py[line:44] - INFO: tg-06 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:16,891 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_08.py[line:56] - INFO: tg-08 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:17,420 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_10.py[line:47] - INFO: tg-10 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:17,631 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_10.py[line:52] - INFO: <Response [200]>
+2021-03-16 17:49:17,638 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:42] - INFO: tg-11 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:21,411 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:47] - INFO: <Response [200]>
+2021-03-16 17:49:21,421 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:44] - INFO: tg-12 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:21,670 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:49] - INFO: <Response [200]>
+2021-03-16 17:49:21,679 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:51] - INFO: tg-13 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:21,916 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:56] - INFO: <Response [200]>
+2021-03-16 17:49:21,925 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:42] - INFO: tg-14 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:22,157 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:47] - INFO: <Response [200]>
+2021-03-16 17:49:22,168 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:83] - INFO: tg-15 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:22,438 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:88] - INFO: <Response [200]>
+2021-03-16 17:49:22,450 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:49] - INFO: tg-16 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:22,675 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:54] - INFO: <Response [200]>
+2021-03-16 17:49:22,684 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:44] - INFO: tg-17 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:22,904 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:49] - INFO: <Response [200]>
+2021-03-16 17:49:22,915 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:48] - INFO: tg-18 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:23,136 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:53] - INFO: <Response [200]>
+2021-03-16 17:49:23,145 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:46] - INFO: tg-19 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:23,374 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:51] - INFO: <Response [200]>
+2021-03-16 17:49:23,385 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:47] - INFO: tg-20 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:49:23,606 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:52] - INFO: <Response [200]>
+2021-03-16 17:51:20,670 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:57] - INFO: tg-01 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:22,822 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_01.py[line:62] - INFO: <Response [200]>
+2021-03-16 17:51:22,827 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:58] - INFO: tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:27,705 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_02.py[line:63] - INFO: <Response [200]>
+2021-03-16 17:51:27,708 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:55] - INFO: tg-03 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:38,213 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_03.py[line:63] - INFO: <Response [200]>
+2021-03-16 17:51:38,225 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_04.py[line:46] - INFO: tg-04 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:38,544 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_04.py[line:51] - INFO: <Response [200]>
+2021-03-16 17:51:38,552 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_05.py[line:46] - INFO: tg-05 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:44,067 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_05.py[line:51] - INFO: <Response [200]>
+2021-03-16 17:51:44,071 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_06.py[line:44] - INFO: tg-06 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:49,103 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_06.py[line:56] - INFO: <Response [200]>
+2021-03-16 17:51:49,121 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_07.py[line:46] - INFO: tg-07 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:49,438 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_07.py[line:51] - INFO: <Response [200]>
+2021-03-16 17:51:49,448 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_08.py[line:56] - INFO: tg-08 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:49,797 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_08.py[line:67] - INFO: <Response [200]>
+2021-03-16 17:51:49,821 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_09.py[line:107] - INFO: tg-09 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:50,521 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_09.py[line:112] - INFO: <Response [200]>
+2021-03-16 17:51:50,532 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_10.py[line:47] - INFO: tg-10 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:51,189 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_10.py[line:52] - INFO: <Response [200]>
+2021-03-16 17:51:51,198 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:42] - INFO: tg-11 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:55,372 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_11.py[line:47] - INFO: <Response [200]>
+2021-03-16 17:51:55,377 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:44] - INFO: tg-12 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:51:55,788 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_12.py[line:49] - INFO: <Response [200]>
+2021-03-16 17:51:55,793 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:51] - INFO: tg-13 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:52:00,650 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_13.py[line:56] - INFO: <Response [200]>
+2021-03-16 17:52:00,659 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:42] - INFO: tg-14 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:52:01,020 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_14.py[line:47] - INFO: <Response [200]>
+2021-03-16 17:52:01,092 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:83] - INFO: tg-15 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:52:01,719 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_15.py[line:88] - INFO: <Response [200]>
+2021-03-16 17:52:01,726 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:49] - INFO: tg-16 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:52:02,049 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_16.py[line:54] - INFO: <Response [200]>
+2021-03-16 17:52:02,053 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:44] - INFO: tg-17 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:52:02,301 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_17.py[line:49] - INFO: <Response [200]>
+2021-03-16 17:52:02,312 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:48] - INFO: tg-18 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:52:03,210 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_18.py[line:53] - INFO: <Response [200]>
+2021-03-16 17:52:03,217 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:46] - INFO: tg-19 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:52:03,478 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_19.py[line:51] - INFO: <Response [200]>
+2021-03-16 17:52:03,500 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:47] - INFO: tg-20 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2021-03-16 17:52:04,217 - C:\Program Files (x86)\ICY\ICY_test\testcase\test_20.py[line:52] - INFO: <Response [200]>

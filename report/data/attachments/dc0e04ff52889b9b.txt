@@ -1,0 +1,2 @@
+INFO     C:\Program Files (x86)\ICY\icy\log\all.log:test_10.py:44 tg-10 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     C:\Program Files (x86)\ICY\icy\log\all.log:test_10.py:49 <Response [200]>

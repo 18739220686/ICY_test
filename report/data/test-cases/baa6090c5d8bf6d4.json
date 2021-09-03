@@ -1,0 +1,58 @@
+{
+  "uid" : "baa6090c5d8bf6d4",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_05.TestProcurementType#test_newly",
+  "historyId" : "428fd0b8d6f2944ddc88e582ce0f1e5b",
+  "time" : {
+    "start" : 1616492433719,
+    "stop" : 1616492433719,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: '../testcase/test_dict.yaml'",
+  "statusTrace" : "self = <test_05.TestProcurementType object at 0x043395D0>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-05' % (self.lab)\n        self.ip = gl.get_value('apiip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n>       self.supplierId = self.id = ReadExtract().read_extract()['supplierId']\n\ntestcase\\test_05.py:26: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <data_test.axtr.ReadExtract object at 0x04339730>\n\n    def read_extract(self):\n        #打开文件\n>       with open('../testcase/test_dict.yaml', encoding='utf-8') as f:\nE       FileNotFoundError: [Errno 2] No such file or directory: '../testcase/test_dict.yaml'\n\ndata_test\\axtr.py:7: FileNotFoundError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例5"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_05"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "133224-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_05"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "baa6090c5d8bf6d4.json",
+  "parameterValues" : [ ]
+}

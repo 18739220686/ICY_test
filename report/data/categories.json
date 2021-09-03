@@ -1,0 +1,113 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "KeyError: 'self.formIdList[]'",
+      "children" : [ {
+        "name" : "test_newly",
+        "uid" : "3ce52b6cea1cc85",
+        "parentUid" : "16ba97077774eec9db8b1c7cf79ceb1f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1615283049044,
+          "stop" : 1615283049052,
+          "duration" : 8
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "16ba97077774eec9db8b1c7cf79ceb1f"
+    }, {
+      "name" : "TypeError: list indices must be integers or slices, not str",
+      "children" : [ {
+        "name" : "test_newly",
+        "uid" : "155581c3706a6551",
+        "parentUid" : "a6ca840760d68beef4d0b02ac437317c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617173267702,
+          "stop" : 1617173267702,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a6ca840760d68beef4d0b02ac437317c"
+    }, {
+      "name" : "AttributeError: 'TestProcurementType' object has no attribute 'formIdList'",
+      "children" : [ {
+        "name" : "test_newly",
+        "uid" : "18c9a78fbcd59f2a",
+        "parentUid" : "738d3626a33ce620886a361c805761b0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617173267739,
+          "stop" : 1617173267739,
+          "duration" : 0
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "738d3626a33ce620886a361c805761b0"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 10000 == 0\n  +10000\n  -0",
+      "children" : [ {
+        "name" : "test_newly",
+        "uid" : "7dea5d95df70c763",
+        "parentUid" : "5ec84cfa95d418d1a7a6f1d5a2d3f516",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616465391756,
+          "stop" : 1616465392429,
+          "duration" : 673
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_newly",
+        "uid" : "9aac4b94b2f12b7c",
+        "parentUid" : "5ec84cfa95d418d1a7a6f1d5a2d3f516",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616465392473,
+          "stop" : 1616465392703,
+          "duration" : 230
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_newly",
+        "uid" : "9f6b62747de4f8a4",
+        "parentUid" : "5ec84cfa95d418d1a7a6f1d5a2d3f516",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616465393042,
+          "stop" : 1616465393265,
+          "duration" : 223
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_newly",
+        "uid" : "c7a04b3108c50a26",
+        "parentUid" : "5ec84cfa95d418d1a7a6f1d5a2d3f516",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616465393557,
+          "stop" : 1616465393772,
+          "duration" : 215
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ec84cfa95d418d1a7a6f1d5a2d3f516"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "df0e20e7a2dfd6e0",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_06.TestProcurementType#test_newly",
+  "historyId" : "d722b949cc421242f3abba3116303c07",
+  "time" : {
+    "start" : 1616479739340,
+    "stop" : 1616479739624,
+    "duration" : 284
+  },
+  "status" : "broken",
+  "statusMessage" : "AttributeError: module 'yaml' has no attribute 'dump'",
+  "statusTrace" : "self = <test_06.TestProcurementType object at 0x041F8EF0>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-06' % (self.lab)\n        self.ip = gl.get_value('apiip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n    \n        # 测试API地址\n        self.url = '% smethod=purchasePlan.getPurchasePlanList&storeHouseId=&barcode=&page=1&pageSize=10&status=1'% (self.ip)\n        print(self.url)\n        self.payloadData ={\n    \n                        }\n    \n        self.payloadHeader = {\n            'Content-Type': \"application/json\",\n            'Cookie': self.token\n        }\n        #打印requests\n        self.data = json.dumps(self.payloadData)\n        self.headers = self.payloadHeader\n        ul.log.logger.info(\"%s is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~\" % (self.caseid))\n    \n        r = requests.request(\"get\", url=self.url, headers=self.payloadHeader, data=self.data,verify=False)\n    \n        # 写入至yaml文件\n        res = r.json()['data']['list'][0]\n        print(res)\n>       list = ReadExtract().write_extract(res)  # 把字典格式的文件存入yaml文件\n\ntestcase\\test_06.py:51: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <axtr.ReadExtract object at 0x041F88B0>\ndata = {'arriveCount': 0, 'bandArriveDate': '2021-03-11', 'bandName': '', 'colorName': '中灰', ...}\n\n    def write_extract(self,data):\n        #写入文件allow_unicode=True返回中文格式\n        with open('test_dict.yaml', encoding='utf-8', mode='w') as f:\n>           yaml.dump(data, stream=f, allow_unicode=True)\nE           AttributeError: module 'yaml' has no attribute 'dump'\n\ntestcase\\axtr.py:15: AttributeError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "AttributeError: module 'yaml' has no attribute 'dump'",
+    "statusTrace" : "self = <test_06.TestProcurementType object at 0x041F8EF0>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-06' % (self.lab)\n        self.ip = gl.get_value('apiip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n    \n        # 测试API地址\n        self.url = '% smethod=purchasePlan.getPurchasePlanList&storeHouseId=&barcode=&page=1&pageSize=10&status=1'% (self.ip)\n        print(self.url)\n        self.payloadData ={\n    \n                        }\n    \n        self.payloadHeader = {\n            'Content-Type': \"application/json\",\n            'Cookie': self.token\n        }\n        #打印requests\n        self.data = json.dumps(self.payloadData)\n        self.headers = self.payloadHeader\n        ul.log.logger.info(\"%s is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~\" % (self.caseid))\n    \n        r = requests.request(\"get\", url=self.url, headers=self.payloadHeader, data=self.data,verify=False)\n    \n        # 写入至yaml文件\n        res = r.json()['data']['list'][0]\n        print(res)\n>       list = ReadExtract().write_extract(res)  # 把字典格式的文件存入yaml文件\n\ntestcase\\test_06.py:51: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <axtr.ReadExtract object at 0x041F88B0>\ndata = {'arriveCount': 0, 'bandArriveDate': '2021-03-11', 'bandName': '', 'colorName': '中灰', ...}\n\n    def write_extract(self,data):\n        #写入文件allow_unicode=True返回中文格式\n        with open('test_dict.yaml', encoding='utf-8', mode='w') as f:\n>           yaml.dump(data, stream=f, allow_unicode=True)\nE           AttributeError: module 'yaml' has no attribute 'dump'\n\ntestcase\\axtr.py:15: AttributeError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5a8f132f985d9122",
+      "name" : "log",
+      "source" : "5a8f132f985d9122.txt",
+      "type" : "text/plain",
+      "size" : 113
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例6"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_06"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "134584-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_06"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df0e20e7a2dfd6e0.json",
+  "parameterValues" : [ ]
+}

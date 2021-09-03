@@ -1,0 +1,1 @@
+INFO     C:\Program Files (x86)\ICY\icy\log\all.log:test_02.py:63 tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~

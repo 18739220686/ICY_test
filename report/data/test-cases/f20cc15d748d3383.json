@@ -1,0 +1,76 @@
+{
+  "uid" : "f20cc15d748d3383",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_03.TestProcurementType#test_newly",
+  "historyId" : "dc30cd2ea2f631e91ce9919f9fe99f1c",
+  "time" : {
+    "start" : 1615859919293,
+    "stop" : 1615859919999,
+    "duration" : 706
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 2 == 0\n  +2\n  -0",
+  "statusTrace" : "self = <test_03.TestProcurementType object at 0x0469E910>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-03' % (self.lab)\n        self.ip = gl.get_value('apiip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n    \n        # 测试API地址\n        self.url = '% smethod=purchasePlan.getWaitPurchasePlanList'% (self.ip)\n        print(self.url)\n        self.payloadData ={\n                \"barcode\": \"\",\n                \"storeHouseId\": \"\",\n                \"status\": 1,\n                \"purchaseTypeId\": [],\n                \"purchaseGenreId\": [],\n                \"supplierId\": \"\",\n                \"merchandiserId\": \"\",\n                \"sort\": \"\",\n                \"sortType\": \"\",\n                \"page\": 1,\n                \"pageSize\": 20\n            }\n    \n    \n        self.payloadHeader = {\n            'Content-Type': \"application/json\",\n            'Cookie': self.token\n        }\n        #打印requests\n        self.data = json.dumps(self.payloadData)\n        self.headers = self.payloadHeader\n        ul.log.logger.info(\"%s is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~\" % (self.caseid))\n    \n        r = requests.request(\"post\", url=self.url, headers=self.payloadHeader, data=self.data,verify=False)\n    \n    \n    \n        print(r.json())\n    \n        ul.log.logger.info(r)\n    \n        # 断言\n>       assert r.json()['result'] == 0\nE       assert 2 == 0\nE         +2\nE         -0\n\ntestcase\\test_03.py:66: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 2 == 0\n  +2\n  -0",
+    "statusTrace" : "self = <test_03.TestProcurementType object at 0x0469E910>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-03' % (self.lab)\n        self.ip = gl.get_value('apiip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n    \n        # 测试API地址\n        self.url = '% smethod=purchasePlan.getWaitPurchasePlanList'% (self.ip)\n        print(self.url)\n        self.payloadData ={\n                \"barcode\": \"\",\n                \"storeHouseId\": \"\",\n                \"status\": 1,\n                \"purchaseTypeId\": [],\n                \"purchaseGenreId\": [],\n                \"supplierId\": \"\",\n                \"merchandiserId\": \"\",\n                \"sort\": \"\",\n                \"sortType\": \"\",\n                \"page\": 1,\n                \"pageSize\": 20\n            }\n    \n    \n        self.payloadHeader = {\n            'Content-Type': \"application/json\",\n            'Cookie': self.token\n        }\n        #打印requests\n        self.data = json.dumps(self.payloadData)\n        self.headers = self.payloadHeader\n        ul.log.logger.info(\"%s is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~\" % (self.caseid))\n    \n        r = requests.request(\"post\", url=self.url, headers=self.payloadHeader, data=self.data,verify=False)\n    \n    \n    \n        print(r.json())\n    \n        ul.log.logger.info(r)\n    \n        # 断言\n>       assert r.json()['result'] == 0\nE       assert 2 == 0\nE         +2\nE         -0\n\ntestcase\\test_03.py:66: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "529af5e71be47671",
+      "name" : "log",
+      "source" : "529af5e71be47671.txt",
+      "type" : "text/plain",
+      "size" : 201
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例3"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_03"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "162464-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_03"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f20cc15d748d3383.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,226 @@
+{
+  "uid" : "155581c3706a6551",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_23.TestProcurementType#test_newly",
+  "historyId" : "9b6c022f10f8c53031ae70f1703f2eae",
+  "time" : {
+    "start" : 1617173267702,
+    "stop" : 1617173267702,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: list indices must be integers or slices, not str",
+  "statusTrace" : "self = <test_23.TestProcurementType object at 0x0539E4F0>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-23' % (self.lab)\n        self.ip = gl.get_value('apiip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n>       self.supplierIds = self.id = Con().con_read()['supplyId']\nE       TypeError: list indices must be integers or slices, not str\n\ntestcase\\test_23.py:26: TypeError",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例23"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_23"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "179896-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_23"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4ced0d6630eba69a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1617097228050,
+        "stop" : 1617097228050,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7e39bbca8a4084c8",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1617085209179,
+        "stop" : 1617085209179,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "78672d695bf5287a",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1617085014645,
+        "stop" : 1617085014645,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e9eeaceb1e9cf",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1617084137762,
+        "stop" : 1617084137762,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "76069bb18dd16347",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1617083680311,
+        "stop" : 1617083680312,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "90e7d7e1744fb2ca",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616663730104,
+        "stop" : 1616663730107,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "b574ac475a148e63",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616663581844,
+        "stop" : 1616663581844,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e14c2c12db5f5eb0",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616494421571,
+        "stop" : 1616494421572,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eed42cf6c33505f",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616493962801,
+        "stop" : 1616493962801,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ceb73fa2badf2c09",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616493787367,
+        "stop" : 1616493787368,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "838f89aa23daf1ee",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616492700923,
+        "stop" : 1616492700923,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8c74ffc5a40b2531",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616492538404,
+        "stop" : 1616492538404,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "40357aec2fbe924e",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616492438342,
+        "stop" : 1616492438343,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1721aed91322bd34",
+      "status" : "broken",
+      "statusDetails" : "TypeError: list indices must be integers or slices, not str",
+      "time" : {
+        "start" : 1616492310406,
+        "stop" : 1616492310406,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "90f41b1d402d9057",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../data_test/send.yaml'",
+      "time" : {
+        "start" : 1616492259380,
+        "stop" : 1616492259380,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5a4359f6c9c1dfea",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../data_test/send.yaml'",
+      "time" : {
+        "start" : 1616491741690,
+        "stop" : 1616491741691,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "758655ca036e7a43",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../data_test/send.yaml'",
+      "time" : {
+        "start" : 1616491588300,
+        "stop" : 1616491588301,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cda50df5af68892b",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../data_test/send.yaml'",
+      "time" : {
+        "start" : 1616491342073,
+        "stop" : 1616491342073,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "155581c3706a6551.json",
+  "parameterValues" : [ ]
+}

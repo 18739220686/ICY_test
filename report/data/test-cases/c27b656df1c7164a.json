@@ -1,0 +1,749 @@
+{
+  "uid" : "c27b656df1c7164a",
+  "name" : "test_Tax",
+  "fullName" : "testcase.test_01.Test_UpdateRate#test_Tax",
+  "historyId" : "aed58e4da2ecc424b6fd4d6358380165",
+  "time" : {
+    "start" : 1617173240412,
+    "stop" : 1617173240965,
+    "duration" : 553
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "89d2f44192aee54d",
+      "name" : "log",
+      "source" : "89d2f44192aee54d.txt",
+      "type" : "text/plain",
+      "size" : 201
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_01"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_UpdateRate"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "179896-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6d149a7ed2b8f93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617097211995,
+        "stop" : 1617097214178,
+        "duration" : 2183
+      }
+    }, {
+      "uid" : "f2a5ca45c75125aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617085186938,
+        "stop" : 1617085190387,
+        "duration" : 3449
+      }
+    }, {
+      "uid" : "78e2367a817ac650",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617084997425,
+        "stop" : 1617084998344,
+        "duration" : 919
+      }
+    }, {
+      "uid" : "c4fc41ae13ed3181",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617084100727,
+        "stop" : 1617084102008,
+        "duration" : 1281
+      }
+    }, {
+      "uid" : "7d358ef42dd3edc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617083665073,
+        "stop" : 1617083666221,
+        "duration" : 1148
+      }
+    }, {
+      "uid" : "d9f7de274255f10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616663710333,
+        "stop" : 1616663711274,
+        "duration" : 941
+      }
+    }, {
+      "uid" : "ab44a81c998983e2",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 0\n  +2\n  -0",
+      "time" : {
+        "start" : 1616663569383,
+        "stop" : 1616663569904,
+        "duration" : 521
+      }
+    }, {
+      "uid" : "dad7844300aa622d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616494407084,
+        "stop" : 1616494407884,
+        "duration" : 800
+      }
+    }, {
+      "uid" : "118ee71ae3461088",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616493941792,
+        "stop" : 1616493943654,
+        "duration" : 1862
+      }
+    }, {
+      "uid" : "8af6fd628056940a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616493765186,
+        "stop" : 1616493766457,
+        "duration" : 1271
+      }
+    }, {
+      "uid" : "9b6fc4ec1ab4bf76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492692332,
+        "stop" : 1616492693129,
+        "duration" : 797
+      }
+    }, {
+      "uid" : "6c829cb5cd709397",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492521540,
+        "stop" : 1616492523911,
+        "duration" : 2371
+      }
+    }, {
+      "uid" : "53a5ea9f7eaa4b43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492427802,
+        "stop" : 1616492432035,
+        "duration" : 4233
+      }
+    }, {
+      "uid" : "6ac90df942266be3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492302436,
+        "stop" : 1616492303026,
+        "duration" : 590
+      }
+    }, {
+      "uid" : "9a9882ac0aeb3df9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492243690,
+        "stop" : 1616492244722,
+        "duration" : 1032
+      }
+    }, {
+      "uid" : "3907d39b362c194d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616491733221,
+        "stop" : 1616491734309,
+        "duration" : 1088
+      }
+    }, {
+      "uid" : "e530af3201357b6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616491570378,
+        "stop" : 1616491571199,
+        "duration" : 821
+      }
+    }, {
+      "uid" : "7729be3abe3a82e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616491332139,
+        "stop" : 1616491334625,
+        "duration" : 2486
+      }
+    }, {
+      "uid" : "39c12f7ddfe5c784",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616479859410,
+        "stop" : 1616479860509,
+        "duration" : 1099
+      }
+    }, {
+      "uid" : "2d08e9e78f1fcf80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616479736144,
+        "stop" : 1616479737633,
+        "duration" : 1489
+      }
+    }, {
+      "uid" : "aaab36d98250b555",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616465539949,
+        "stop" : 1616465542718,
+        "duration" : 2769
+      }
+    }, {
+      "uid" : "b5a5b6efd4310087",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616465380521,
+        "stop" : 1616465383397,
+        "duration" : 2876
+      }
+    }, {
+      "uid" : "19807de7c90fe0dc",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchasePlan.getPurchasePlanList (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1616464824012,
+        "stop" : 1616464824196,
+        "duration" : 184
+      }
+    }, {
+      "uid" : "b717a5b6f1caf43a",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchasePlan.getPurchasePlanList (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1616464029225,
+        "stop" : 1616464029467,
+        "duration" : 242
+      }
+    }, {
+      "uid" : "f279d71921ffb55d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615888280670,
+        "stop" : 1615888282824,
+        "duration" : 2154
+      }
+    }, {
+      "uid" : "ba118b4975df891f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 0\n  +2\n  -0",
+      "time" : {
+        "start" : 1615888155544,
+        "stop" : 1615888156125,
+        "duration" : 581
+      }
+    }, {
+      "uid" : "e694cfd0790d9f14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615861513835,
+        "stop" : 1615861514543,
+        "duration" : 708
+      }
+    }, {
+      "uid" : "1462711434c7c52d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 0\n  +2\n  -0",
+      "time" : {
+        "start" : 1615860541511,
+        "stop" : 1615860541691,
+        "duration" : 180
+      }
+    }, {
+      "uid" : "85fa93d3e9b77ae",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 0\n  +2\n  -0",
+      "time" : {
+        "start" : 1615859918045,
+        "stop" : 1615859918676,
+        "duration" : 631
+      }
+    }, {
+      "uid" : "7ba0a5165e0f8bf6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615286174932,
+        "stop" : 1615286176327,
+        "duration" : 1395
+      }
+    }, {
+      "uid" : "c1ccb67c3e4e4a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615285775969,
+        "stop" : 1615285776456,
+        "duration" : 487
+      }
+    }, {
+      "uid" : "5714aa52e41760d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615283527885,
+        "stop" : 1615283529138,
+        "duration" : 1253
+      }
+    }, {
+      "uid" : "ebc094556710dfea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615283049091,
+        "stop" : 1615283049442,
+        "duration" : 351
+      }
+    }, {
+      "uid" : "44ebdda23373807a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615282881258,
+        "stop" : 1615282881610,
+        "duration" : 352
+      }
+    }, {
+      "uid" : "de6cd7bcf890ed61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615281958114,
+        "stop" : 1615281958403,
+        "duration" : 289
+      }
+    }, {
+      "uid" : "71d039f2491a19f5",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchasePlan.getPurchasePlanList (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615281937101,
+        "stop" : 1615281937108,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "a092e5ce78578e68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615269090150,
+        "stop" : 1615269094879,
+        "duration" : 4729
+      }
+    }, {
+      "uid" : "f45b322d67843562",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615262450619,
+        "stop" : 1615262451186,
+        "duration" : 567
+      }
+    }, {
+      "uid" : "5c1cbc8165d2fbca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615262302502,
+        "stop" : 1615262303704,
+        "duration" : 1202
+      }
+    }, {
+      "uid" : "fa656dbebe16f50f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615253235624,
+        "stop" : 1615253236303,
+        "duration" : 679
+      }
+    }, {
+      "uid" : "77f80e2a855e49d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199816520,
+        "stop" : 1615199817092,
+        "duration" : 572
+      }
+    }, {
+      "uid" : "25d59f45b8055718",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199767025,
+        "stop" : 1615199767593,
+        "duration" : 568
+      }
+    }, {
+      "uid" : "2cf7820f21a03c9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199686952,
+        "stop" : 1615199687540,
+        "duration" : 588
+      }
+    }, {
+      "uid" : "a6c175855f2b7b14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615198933604,
+        "stop" : 1615198934094,
+        "duration" : 490
+      }
+    }, {
+      "uid" : "865cb59a5b1a5335",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615198794039,
+        "stop" : 1615198796157,
+        "duration" : 2118
+      }
+    }, {
+      "uid" : "834031d96c4d988d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615197506653,
+        "stop" : 1615197507869,
+        "duration" : 1216
+      }
+    }, {
+      "uid" : "a05e7c68cee4192b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615197394636,
+        "stop" : 1615197395113,
+        "duration" : 477
+      }
+    }, {
+      "uid" : "a7f7852831492bf3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615196870894,
+        "stop" : 1615196876407,
+        "duration" : 5513
+      }
+    }, {
+      "uid" : "17b1d379ad13da93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615195487116,
+        "stop" : 1615195487617,
+        "duration" : 501
+      }
+    }, {
+      "uid" : "51339d3bad1b8248",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615195336641,
+        "stop" : 1615195337157,
+        "duration" : 516
+      }
+    }, {
+      "uid" : "314dccdd09753501",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615195207426,
+        "stop" : 1615195208422,
+        "duration" : 996
+      }
+    }, {
+      "uid" : "8e565c08e985e2eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615194370631,
+        "stop" : 1615194371125,
+        "duration" : 494
+      }
+    }, {
+      "uid" : "7a8898905cf3093a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615193326725,
+        "stop" : 1615193327216,
+        "duration" : 491
+      }
+    }, {
+      "uid" : "ba901d1064fe3a0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615193135531,
+        "stop" : 1615193136044,
+        "duration" : 513
+      }
+    }, {
+      "uid" : "d4ffe3678d61b1eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615193070250,
+        "stop" : 1615193071300,
+        "duration" : 1050
+      }
+    }, {
+      "uid" : "69885da4404315ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192851621,
+        "stop" : 1615192852322,
+        "duration" : 701
+      }
+    }, {
+      "uid" : "467aa6109eb06f27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192808041,
+        "stop" : 1615192809046,
+        "duration" : 1005
+      }
+    }, {
+      "uid" : "f4be833237482216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192742821,
+        "stop" : 1615192746256,
+        "duration" : 3435
+      }
+    }, {
+      "uid" : "1419a25d7f0fc27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192546074,
+        "stop" : 1615192546755,
+        "duration" : 681
+      }
+    }, {
+      "uid" : "6be03034cb72b8fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192484650,
+        "stop" : 1615192485207,
+        "duration" : 557
+      }
+    }, {
+      "uid" : "2a4750e1d684765d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192372913,
+        "stop" : 1615192373654,
+        "duration" : 741
+      }
+    }, {
+      "uid" : "90e2a7ef515fbb45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192178822,
+        "stop" : 1615192181227,
+        "duration" : 2405
+      }
+    }, {
+      "uid" : "a569a7f557cf83da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192017053,
+        "stop" : 1615192017574,
+        "duration" : 521
+      }
+    }, {
+      "uid" : "a51ceacac24884ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615190086305,
+        "stop" : 1615190089971,
+        "duration" : 3666
+      }
+    }, {
+      "uid" : "601bddc486ae55bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615189569592,
+        "stop" : 1615189570292,
+        "duration" : 700
+      }
+    }, {
+      "uid" : "8511d5631633f7cf",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchasePlan.getPurchasePlanList (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615189456243,
+        "stop" : 1615189456381,
+        "duration" : 138
+      }
+    }, {
+      "uid" : "4c91a3370052fc2",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchasePlan.getPurchasePlanList (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615189120341,
+        "stop" : 1615189120481,
+        "duration" : 140
+      }
+    }, {
+      "uid" : "7694ddd35f578f88",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchasePlan.getPurchasePlanList (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615188981487,
+        "stop" : 1615188981636,
+        "duration" : 149
+      }
+    }, {
+      "uid" : "f277a5db405d3853",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=systemSetting.updateTaxRate (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615188452339,
+        "stop" : 1615188452482,
+        "duration" : 143
+      }
+    }, {
+      "uid" : "677351a672752464",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=systemSetting.updateTaxRate (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615188418330,
+        "stop" : 1615188418484,
+        "duration" : 154
+      }
+    }, {
+      "uid" : "445cb15ad649d942",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=systemSetting.updateTaxRate (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615168580607,
+        "stop" : 1615168580732,
+        "duration" : 125
+      }
+    }, {
+      "uid" : "ef29e63eaa304743",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=systemSetting.updateTaxRate (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615168348033,
+        "stop" : 1615168348190,
+        "duration" : 157
+      }
+    }, {
+      "uid" : "44793aba6f404eb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614928269653,
+        "stop" : 1614928270081,
+        "duration" : 428
+      }
+    }, {
+      "uid" : "edfac6095b1cafcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614927217659,
+        "stop" : 1614927218212,
+        "duration" : 553
+      }
+    }, {
+      "uid" : "4f7d5b3b03c1cc72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614927136769,
+        "stop" : 1614927137203,
+        "duration" : 434
+      }
+    }, {
+      "uid" : "4b476a682b968e64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909805457,
+        "stop" : 1614909805890,
+        "duration" : 433
+      }
+    }, {
+      "uid" : "61468e8311aa0c13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909664889,
+        "stop" : 1614909666314,
+        "duration" : 1425
+      }
+    }, {
+      "uid" : "ce08455eb1da48a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909599131,
+        "stop" : 1614909599561,
+        "duration" : 430
+      }
+    }, {
+      "uid" : "decf2bed17e397eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909529489,
+        "stop" : 1614909529880,
+        "duration" : 391
+      }
+    }, {
+      "uid" : "327538e567906346",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909386158,
+        "stop" : 1614909386530,
+        "duration" : 372
+      }
+    }, {
+      "uid" : "5ea40ddeb3423b6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909181770,
+        "stop" : 1614909182211,
+        "duration" : 441
+      }
+    }, {
+      "uid" : "367b9f0432d7c3f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909040647,
+        "stop" : 1614909041050,
+        "duration" : 403
+      }
+    }, {
+      "uid" : "a56470bfe2dc42f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614908857031,
+        "stop" : 1614908857480,
+        "duration" : 449
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c27b656df1c7164a.json",
+  "parameterValues" : [ ]
+}

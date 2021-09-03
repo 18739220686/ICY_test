@@ -1,0 +1,58 @@
+{
+  "uid" : "ac13e0d5ff17dbd5",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_22.TestProcurementType#test_newly",
+  "historyId" : "60950418b1ce16e104d0b61868a22992",
+  "time" : {
+    "start" : 1616663581838,
+    "stop" : 1616663581838,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: list indices must be integers or slices, not str",
+  "statusTrace" : "self = <test_22.TestProcurementType object at 0x0529E030>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-22' % (self.lab)\n        self.ip = gl.get_value('AIip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n>       self.appliedSupplierIds = self.id = Con().con_read()['appliedSupplierIds']\nE       TypeError: list indices must be integers or slices, not str\n\ntestcase\\test_22.py:27: TypeError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例22"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_22"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "211148-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_22"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac13e0d5ff17dbd5.json",
+  "parameterValues" : [ ]
+}

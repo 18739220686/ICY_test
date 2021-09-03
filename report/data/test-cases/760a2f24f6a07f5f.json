@@ -1,0 +1,58 @@
+{
+  "uid" : "760a2f24f6a07f5f",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_22.TestProcurementType#test_newly",
+  "historyId" : "60950418b1ce16e104d0b61868a22992",
+  "time" : {
+    "start" : 1616491588288,
+    "stop" : 1616491588288,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "statusMessage" : "FileNotFoundError: [Errno 2] No such file or directory: '../data_test/send.yaml'",
+  "statusTrace" : "self = <test_22.TestProcurementType object at 0x053F3630>\n\n    def test_newly(self):\n        self.lab = gl.get_value('lab')\n        self.caseid = '%s-22' % (self.lab)\n        self.ip = gl.get_value('AIip')\n        self.testplanid = gl.get_value('test_plan_id')\n        self.token = gl.get_value('Cookie')\n>       self.appliedSupplierIds = self.id = Con().con_read()['appliedSupplierIds']\n\ntestcase\\test_22.py:29: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <testcase.axtr.Con object at 0x053F3D30>\n\n    def con_read(self):\n        #打开文件\n>       with open('../data_test/send.yaml', encoding='utf-8') as f:\nE       FileNotFoundError: [Errno 2] No such file or directory: '../data_test/send.yaml'\n\ntestcase\\axtr.py:37: FileNotFoundError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例21"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_22"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "205664-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_22"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "760a2f24f6a07f5f.json",
+  "parameterValues" : [ ]
+}

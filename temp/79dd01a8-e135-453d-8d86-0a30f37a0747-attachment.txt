@@ -1,0 +1,2 @@
+INFO     C:\Users\user\icy\log\all.log:test_02.py:53 tg-02 is open!~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+INFO     C:\Users\user\icy\log\all.log:test_02.py:61 <Response [200]>

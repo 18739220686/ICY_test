@@ -1,0 +1,712 @@
+{
+  "uid" : "25bf3a42a697bd73",
+  "name" : "test_newly",
+  "fullName" : "testcase.test_04.TestProcurementType#test_newly",
+  "historyId" : "09ea47c93403a114b9ba2b3628ea1a44",
+  "time" : {
+    "start" : 1617173245652,
+    "stop" : 1617173246079,
+    "duration" : 427
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "177be6151f77e412",
+      "name" : "log",
+      "source" : "177be6151f77e412.txt",
+      "type" : "text/plain",
+      "size" : 201
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例4"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_04"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestProcurementType"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JR3NDOU"
+  }, {
+    "name" : "thread",
+    "value" : "179896-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_04"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76e7c6ac75b19724",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617097216168,
+        "stop" : 1617097216550,
+        "duration" : 382
+      }
+    }, {
+      "uid" : "ceca8000fc5af3ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617085196019,
+        "stop" : 1617085196324,
+        "duration" : 305
+      }
+    }, {
+      "uid" : "84a7c3e6e98b0fa8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617085004394,
+        "stop" : 1617085004855,
+        "duration" : 461
+      }
+    }, {
+      "uid" : "9489ea6e4af4c3df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617084110490,
+        "stop" : 1617084114386,
+        "duration" : 3896
+      }
+    }, {
+      "uid" : "3b20ce67b2d3a6d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617083669543,
+        "stop" : 1617083670122,
+        "duration" : 579
+      }
+    }, {
+      "uid" : "470734bdd03bad44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616663713481,
+        "stop" : 1616663713834,
+        "duration" : 353
+      }
+    }, {
+      "uid" : "9e5b466a0b3d9909",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'id'",
+      "time" : {
+        "start" : 1616663570408,
+        "stop" : 1616663570409,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eae2bb382d5897ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616494409386,
+        "stop" : 1616494409719,
+        "duration" : 333
+      }
+    }, {
+      "uid" : "2fe5c6bee1be43e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616493950787,
+        "stop" : 1616493951036,
+        "duration" : 249
+      }
+    }, {
+      "uid" : "b48597db28c2857a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616493767700,
+        "stop" : 1616493767999,
+        "duration" : 299
+      }
+    }, {
+      "uid" : "1ae94aa193aafb90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492694127,
+        "stop" : 1616492694411,
+        "duration" : 284
+      }
+    }, {
+      "uid" : "a222a4bf24bcc715",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492525954,
+        "stop" : 1616492526260,
+        "duration" : 306
+      }
+    }, {
+      "uid" : "7d289f8901748b1f",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../testcase/test_dict.yaml'",
+      "time" : {
+        "start" : 1616492433707,
+        "stop" : 1616492433708,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "21fabd862d496f20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492303809,
+        "stop" : 1616492304230,
+        "duration" : 421
+      }
+    }, {
+      "uid" : "2ca3f8e6be43d87f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616492245584,
+        "stop" : 1616492245929,
+        "duration" : 345
+      }
+    }, {
+      "uid" : "65d92559a67685cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616491735419,
+        "stop" : 1616491735794,
+        "duration" : 375
+      }
+    }, {
+      "uid" : "c2b8c2a56ecf9dbe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616491572294,
+        "stop" : 1616491575587,
+        "duration" : 3293
+      }
+    }, {
+      "uid" : "ffff50f88ffcfde8",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '../data_test/test_dict.yaml'",
+      "time" : {
+        "start" : 1616491337382,
+        "stop" : 1616491337383,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "936ecb24c3e95cab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616479861544,
+        "stop" : 1616479861817,
+        "duration" : 273
+      }
+    }, {
+      "uid" : "67a35bac52a6fd7c",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: module 'yaml' has no attribute 'load'",
+      "time" : {
+        "start" : 1616479739323,
+        "stop" : 1616479739323,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eae092d37d9d78d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616465543614,
+        "stop" : 1616465543935,
+        "duration" : 321
+      }
+    }, {
+      "uid" : "b4945b4f10905435",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616465384617,
+        "stop" : 1616465385040,
+        "duration" : 423
+      }
+    }, {
+      "uid" : "71a39bd283341cca",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'id'",
+      "time" : {
+        "start" : 1616464824670,
+        "stop" : 1616464824671,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1581c5ec8e9265bc",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'id'",
+      "time" : {
+        "start" : 1616464030000,
+        "stop" : 1616464030002,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "330cf0e38db9cc73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615888298221,
+        "stop" : 1615888298545,
+        "duration" : 324
+      }
+    }, {
+      "uid" : "f4c4393a2a661063",
+      "status" : "broken",
+      "statusDetails" : "KeyError: 'id'",
+      "time" : {
+        "start" : 1615888156647,
+        "stop" : 1615888156649,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "4d11de44b08a4586",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615861520660,
+        "stop" : 1615861525444,
+        "duration" : 4784
+      }
+    }, {
+      "uid" : "33fe93a9622873fd",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: 'test_dict.yaml'",
+      "time" : {
+        "start" : 1615860543087,
+        "stop" : 1615860543087,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b91943ad462e9fb",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: 'test_dict.yaml'",
+      "time" : {
+        "start" : 1615859920008,
+        "stop" : 1615859920008,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7162b405bf10d54e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615286177147,
+        "stop" : 1615286178580,
+        "duration" : 1433
+      }
+    }, {
+      "uid" : "3f5939c1249a2e8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615285777522,
+        "stop" : 1615285777858,
+        "duration" : 336
+      }
+    }, {
+      "uid" : "b13ddd7587d133f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615283529859,
+        "stop" : 1615283530121,
+        "duration" : 262
+      }
+    }, {
+      "uid" : "35df5af6459a5b07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615283050325,
+        "stop" : 1615283051849,
+        "duration" : 1524
+      }
+    }, {
+      "uid" : "bce2094bfd054a03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615282885793,
+        "stop" : 1615282889682,
+        "duration" : 3889
+      }
+    }, {
+      "uid" : "25881d39b55f0c5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615281959159,
+        "stop" : 1615281959442,
+        "duration" : 283
+      }
+    }, {
+      "uid" : "8115ab0920a3ff93",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=purchasePlan.updateStatus (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615281937543,
+        "stop" : 1615281937558,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "e9a9f7a4012b53e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615269102421,
+        "stop" : 1615269102702,
+        "duration" : 281
+      }
+    }, {
+      "uid" : "c0b831795dad4acd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615262452113,
+        "stop" : 1615262452398,
+        "duration" : 285
+      }
+    }, {
+      "uid" : "b59c7361e0b9c024",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615262304869,
+        "stop" : 1615262305244,
+        "duration" : 375
+      }
+    }, {
+      "uid" : "bc289a69647f4009",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615253237547,
+        "stop" : 1615253237838,
+        "duration" : 291
+      }
+    }, {
+      "uid" : "f71db62791e6b1ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199818027,
+        "stop" : 1615199818267,
+        "duration" : 240
+      }
+    }, {
+      "uid" : "90faa79fd2b59008",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199768886,
+        "stop" : 1615199769148,
+        "duration" : 262
+      }
+    }, {
+      "uid" : "3faa78a2ccdcc3d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615199688706,
+        "stop" : 1615199689762,
+        "duration" : 1056
+      }
+    }, {
+      "uid" : "e800f26a1e96e2bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615198934829,
+        "stop" : 1615198935119,
+        "duration" : 290
+      }
+    }, {
+      "uid" : "192b862d3eebfd79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615198799297,
+        "stop" : 1615198799610,
+        "duration" : 313
+      }
+    }, {
+      "uid" : "a58b6d8bf8cb9f62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615197511652,
+        "stop" : 1615197511941,
+        "duration" : 289
+      }
+    }, {
+      "uid" : "83b54edee05c7922",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615197396201,
+        "stop" : 1615197396445,
+        "duration" : 244
+      }
+    }, {
+      "uid" : "25bdbb059437f13f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615196877437,
+        "stop" : 1615196877682,
+        "duration" : 245
+      }
+    }, {
+      "uid" : "1dd19ed9704ff0d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615195488333,
+        "stop" : 1615195488555,
+        "duration" : 222
+      }
+    }, {
+      "uid" : "70c541501e4111f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615195337996,
+        "stop" : 1615195338272,
+        "duration" : 276
+      }
+    }, {
+      "uid" : "181a5ced6dfd7f3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615195210915,
+        "stop" : 1615195213107,
+        "duration" : 2192
+      }
+    }, {
+      "uid" : "ee5e92c2c48fc4f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615194371966,
+        "stop" : 1615194372196,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "fa9cf8a1611a5862",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615193332356,
+        "stop" : 1615193332590,
+        "duration" : 234
+      }
+    }, {
+      "uid" : "a9cc3385907686f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615193141860,
+        "stop" : 1615193142084,
+        "duration" : 224
+      }
+    }, {
+      "uid" : "89bb43ce500d8d05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615193072290,
+        "stop" : 1615193072493,
+        "duration" : 203
+      }
+    }, {
+      "uid" : "1c0b3f7196183ee1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192853164,
+        "stop" : 1615192853358,
+        "duration" : 194
+      }
+    }, {
+      "uid" : "991f99b4921cacbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192811005,
+        "stop" : 1615192812303,
+        "duration" : 1298
+      }
+    }, {
+      "uid" : "c5ebfb5d2f8aeb79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192752126,
+        "stop" : 1615192752356,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "4e0b58255bf408f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192547621,
+        "stop" : 1615192547900,
+        "duration" : 279
+      }
+    }, {
+      "uid" : "e032c48f5290e8cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192486128,
+        "stop" : 1615192486518,
+        "duration" : 390
+      }
+    }, {
+      "uid" : "d8e8499b8de46672",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192374541,
+        "stop" : 1615192374723,
+        "duration" : 182
+      }
+    }, {
+      "uid" : "6c84c1138f9ab57b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192182702,
+        "stop" : 1615192182950,
+        "duration" : 248
+      }
+    }, {
+      "uid" : "280d62086b6c2f9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615192018447,
+        "stop" : 1615192018721,
+        "duration" : 274
+      }
+    }, {
+      "uid" : "82ae849a276f8dc5",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=systemSetting.updatePurchaseType (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615188452916,
+        "stop" : 1615188452924,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "3717e3e4a4739bc7",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=systemSetting.updatePurchaseType (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615188418920,
+        "stop" : 1615188418928,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "4c35c68fa8baa1af",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=systemSetting.updatePurchaseType (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615168581155,
+        "stop" : 1615168581164,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "2dfd25d2e4459027",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.SSLError: HTTPSConnectionPool(host='tgnew-test.icy.design', port=443): Max retries exceeded with url: /api/tg/admin.php?method=systemSetting.updatePurchaseType (Caused by SSLError(SSLError(1, '[SSL: UNKNOWN_PROTOCOL] unknown protocol (_ssl.c:777)'),))",
+      "time" : {
+        "start" : 1615168348623,
+        "stop" : 1615168348630,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "24ed6d51393df3d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614928270606,
+        "stop" : 1614928270801,
+        "duration" : 195
+      }
+    }, {
+      "uid" : "d88db29c32513e67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614927218804,
+        "stop" : 1614927219074,
+        "duration" : 270
+      }
+    }, {
+      "uid" : "be71dcd2f22cd76d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614927137692,
+        "stop" : 1614927137895,
+        "duration" : 203
+      }
+    }, {
+      "uid" : "234de7a86461f499",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909806668,
+        "stop" : 1614909806866,
+        "duration" : 198
+      }
+    }, {
+      "uid" : "6652a4bfd40a5120",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909666903,
+        "stop" : 1614909667113,
+        "duration" : 210
+      }
+    }, {
+      "uid" : "b6118fbdeff14c87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909600116,
+        "stop" : 1614909600351,
+        "duration" : 235
+      }
+    }, {
+      "uid" : "f10b3cc92e09ccda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909530330,
+        "stop" : 1614909530519,
+        "duration" : 189
+      }
+    }, {
+      "uid" : "2aa70c31f7a995a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909386998,
+        "stop" : 1614909387188,
+        "duration" : 190
+      }
+    }, {
+      "uid" : "4ff1e031501c7abc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909182775,
+        "stop" : 1614909182970,
+        "duration" : 195
+      }
+    }, {
+      "uid" : "c13465c35613d61b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614909041509,
+        "stop" : 1614909041718,
+        "duration" : 209
+      }
+    }, {
+      "uid" : "ba9024202f8d4d2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614908858074,
+        "stop" : 1614908858272,
+        "duration" : 198
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25bf3a42a697bd73.json",
+  "parameterValues" : [ ]
+}
